@@ -22,3 +22,7 @@ In order to run to run 'problems.ipynb' you can follow these steps:
 3. pip install -r requirements.txt
 4. jupyter notebook problems.ipynb
 
+## Guidance
+
+For additional guidance on the problems, please refer to the [GitHub Issues](https://github.com/ZigareenKavumaNakintu/computational_theory/issues). Each relevant issue contains guidance and information to help with the corresponding problem.
+
