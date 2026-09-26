@@ -1,19 +1,24 @@
-# Computational Theory #
+# Computational Theory 
 
-## Description ##
+## Description 
 This repository contains the learning outcomes and knowledge obtained from the Computational Theory Module. The project is written in Python and Problems are presented in Jupyter Notebooks.
 
-## Getting Started ##
+## Getting Started 
 
-### Dependencies ###
+### Dependencies
+- Python 3.14 or later
+- Jupyter NotebookS
+- The Python packages listed in `requirements.txt`
 
-### Installing ###
+### Installing 
 - Make sure you have python installed.
+- Clone the repository
 
 
-### Running the Notebook ###
-In order to run to run 'problems.ipnyb' you can follow these steps:
-1. git clone <repo-url>
-2. pip install -r requirements.txt
-3. jupyter notebook problems.ipynb
+### Running the Notebook 
+In order to run to run 'problems.ipynb' you can follow these steps:
+1. git clone https://github.com/ZigareenKavumaNakintu/computational_theory.git
+2. cd computational_theory
+3. pip install -r requirements.txt
+4. jupyter notebook problems.ipynb
 
